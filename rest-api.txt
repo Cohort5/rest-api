@@ -1,0 +1,55 @@
+vs 4 Creating an Express App - json
+c9 only operates on three ports
+
+Cloud9 hosted workspaces now allow workspaces to listen on multiple ports. The following ports are supported (along with the urls they can be accessed from):
+
+8080 -> https://<workspacename>-<username>.c9users.io
+8081 -> http://<workspacename>-<username>.c9users.io:8081
+8082 -> http://<workspacename>-<username>.c9users.io:8082
+
+PORT=
+env
+
+express routes
+npm install nodemon -g --save-device  --dev
+    use nodemon {filename} instead of node {filename} going forward
+        https:/c9.io/remy/ndemon
+        
+vs5,  Handling Requests - What is express - web application framework
+https://expressjs.com/
+middle ware
+
+vs6, creating routes
+get, post, put, delete, postman
+
+v7, Handling POST Requests (& middleware) body parser 
+npm install body-parser --save
+
+vs 8,  (Node, Express & Mongo) #8 - Models & Schemas
+models represent collections
+schemas define the structure of our data objecs - flexible schemas, non sql 
+mongoose - allows us to create our models and schemas easily
+
+vs 9 - Saving Data to MongoDB
+
+mongo comands instead of robo mongo
+
+rest api in data
+mongod - server vs mongo - admin tool, list of commands [db.help()]
+show dbs
+use ninja goes
+db.ninjas.find
+
+vs 10 on Thursday
+
+
+
+
+
+
+
+
+
+
+
+
