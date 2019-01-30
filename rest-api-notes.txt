@@ -1,0 +1,63 @@
+What is REST API? vs1
+Requirements basic JavaScript, Node.js, and MongoDB
+
+API: Application Programming Interface
+
+REST: REpresentaitional State Transfer
+    ie: remote control interface with TV
+    ie: application, youtube, interface, series of end points (https//)
+    ie: developers use API's like uber, twitter, gmaps, Utube
+    Query list of drives in Json format
+
+REST: REpresentaitional State Transfer
+    Architectual style of the web
+    A standard / set of guidelines by which we can structue and create API's
+    REST API's have identifiable properties
+    
+REST Properties:
+    1. They make use of Resource-based URL's
+        Webpage - scores, teams, arsenal 
+            GET request for rersouce in html
+        JSON - api, scores, teams, aresnal
+            /resource based with / 
+    2. They make use of HTTP methods
+        GET - used to retrieve data from the server
+        POST - used to send data server
+        PUT - used to update data
+        DELETE - used to delete data
+    3. They make use of HTTP status codes
+        200 - means OK
+        404 - means resource not found
+        500 - means server errors
+        Network tab, header
+    ie: https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg
+    
+    Objectives:
+    1. Learn about HTTP methods and what they're for
+    2. Create an API using Node.js, Express & MongoDB
+    3. Test our API using POSTMAN
+    4. Create a simple front-end to interact with our API
+    
+    https://github.com/iamshaunjp/rest-api-playlist
+    iamshaunjp / rest-api-playlist
+        
+        
+        
+        
+        
+        
+        
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
