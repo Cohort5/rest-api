@@ -5,6 +5,8 @@ const mongoose = require('mongoose');
 // set up express app
 const app = express();
 
+process.env['PORT'] = 8082
+
 // connect to mongodb
 mongoose.connect('mongodb://localhost/ninjago');
 mongoose.Promise = global.Promise;
@@ -25,3 +27,5 @@ app.use(function(err, req, res, next){
 app.listen(process.env.port || 4000, function(){
     console.log('now listening for requests');
 });
+
+

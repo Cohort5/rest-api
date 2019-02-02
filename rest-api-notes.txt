@@ -1,4 +1,4 @@
-What is REST API? vs1
+What is REST API-vs1
 Requirements basic JavaScript, Node.js, and MongoDB
 
 API: Application Programming Interface
@@ -40,6 +40,12 @@ REST Properties:
     
     https://github.com/iamshaunjp/rest-api-playlist
     iamshaunjp / rest-api-playlist
+    
+Setting up Node.js & MongoDB-vs2    
+
+REST API, 
+    information was delivered by html
+    
         
         
         

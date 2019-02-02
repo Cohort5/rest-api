@@ -21,26 +21,68 @@ middle ware
 
 vs6, creating routes
 get, post, put, delete, postman
+     updating, 
+     url and query parameters
+     refactoring, to optimize your code
 
 v7, Handling POST Requests (& middleware) body parser 
 npm install body-parser --save
 
 vs 8,  (Node, Express & Mongo) #8 - Models & Schemas
 models represent collections
-schemas define the structure of our data objecs - flexible schemas, non sql 
+schemas define the skelatal structure of our data objecs - flexible schemas, non sql 
 mongoose - allows us to create our models and schemas easily
 
-vs 9 - Saving Data to MongoDB
+MVC - model view controller 
+          INDEX.JS, PUBLIC, 
+    model, view, controller folders
+    ie: design patterns gang of four pdf (pg.7)
+    PERFECTION IS THE ENEMY
 
+vs 9 - Saving Data to MongoDB
+    MongoDB - collections vs. SQL - tables
+    
 mongo comands instead of robo mongo
+./mongod
+nodemon
 
 rest api in data
-mongod - server vs mongo - admin tool, list of commands [db.help()]
+./mongod - server vs mongo - admin tool, list of commands [db.help()]
+mongo 
 show dbs
-use ninja goes
-db.ninjas.find
+use ninjago
+show collections
+db.ninjas.find()
 
-vs 10 on Thursday
+vs 13 on Thursday
+
+REST API, 
+    information was delivered by html, since website's change, api's pull current information
+    ie: google.com/search?q=rest api
+        api, express, geo location
+        env in C9 for ports, not used for full product development
+        git check out -- index.json
+        JSON is a flexible data based
+        
+vs 13 - GeoJSON
+        2D SPHERE (2dsphere)
+        
+vs 15 - 
+    git checkout --. (ALL FILES)
+    $geonear (aggregation) mongoDB
+    
+HW: AJAX, JQWERY, WALK THRU ON SATURDAY
+    MONGODB, REST API
+        
+        
+        
+        
+        
+        
+        
+    
+
+
 
 
 
