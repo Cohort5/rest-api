@@ -42,6 +42,13 @@ MVC - model view controller
 vs 9 - Saving Data to MongoDB
     MongoDB - collections vs. SQL - tables
     
+vs 10 - Error Handling
+    use middle ware
+    .catch(next) method
+    
+vs 11 - Delete requests handler
+    remove data from the data base
+    
 mongo comands instead of robo mongo
 ./mongod
 nodemon
@@ -70,9 +77,36 @@ vs 13 - GeoJSON
 vs 15 - 
     git checkout --. (ALL FILES)
     $geonear (aggregation) mongoDB
+    get request method in slack from Arnell
     
 HW: AJAX, JQWERY, WALK THRU ON SATURDAY
     MONGODB, REST API
+    
+JQWERY - short hand for JavaScript - API
+
+git branch
+
+./mongod - listening for access from the client
+nodemon index
+mongo - shell for adminstrative tools
+
+rest api in data
+./mongod - server vs mongo - admin tool, list of commands [db.help()]
+mongo 
+show dbs
+use ninjago
+show collections
+db.ninjas.find()
+ip address into the browser or run
+api.js - for coordinates
+
+mongo --v to check you version of mongoDB
+
+
+
+
+
+
         
         
         

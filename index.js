@@ -5,7 +5,7 @@ const mongoose = require('mongoose');
 // set up express app
 const app = express();
 
-process.env['PORT'] = 8082
+// process.env['PORT'] = 8082
 
 // connect to mongodb
 mongoose.connect('mongodb://localhost/ninjago');
