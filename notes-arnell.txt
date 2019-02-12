@@ -102,6 +102,22 @@ api.js - for coordinates
 
 mongo --v to check you version of mongoDB
 
+SATURDAY FEB 9, 2019
+
+1. Redo Ajax Crash Course - take coupious notes
+2. Building my own version of a stockmarker application (dataBase)
+    POST - add stocks , GET - retrieve, Delete, GRUD - update
+3. Two repositories - no PHP
+4. Twitter - GitHUB HOF, @CareerDevs #gitPushCodeChallenge
+        
+5. MongoDB
+
+npm init
+npm install --save
+
+
+
+
 
 
 
